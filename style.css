@@ -70,7 +70,7 @@ body{
 }
 
 .home-content p:last-child{
-    color:#FCA311;
+    color:#9511FC;
     max-width:50rem;
     animation-name: moveInRight;
     animation-duration: 2s;
@@ -107,7 +107,7 @@ body{
 
 #project-title{
     text-transform: uppercase;
-    color:#FCA311;
+    color:#9511FC;
     font-family: 'Montserrat', sans-serif;
     font-size:3rem;
     font-weight: 600;
@@ -161,7 +161,7 @@ body{
     width:14rem;
     margin-right:2rem;
     border-radius: 15rem;
-    background-color:#FCA311;
+    background-color:#9511FC;
     color: black;
     cursor: pointer;
     font-family: 'Inter', sans-serif;
@@ -177,11 +177,11 @@ body{
 .code-button{
     background-color:#212223fa;
     color:white;
-    border-color: #FCA311;
+    border-color: #9511FC;
 }
 
 .code-button:hover{
-    background-color: #FCA311;
+    background-color: #9511FC;
     color:black;
     border:0; 
 }
@@ -195,7 +195,7 @@ a:link{
 
 /*Começo da seção skills*/
 #skills{
-    background-color: #FCA311;
+    background-color: #9511FC;
     padding:8rem 10rem 12rem;
 }
 
